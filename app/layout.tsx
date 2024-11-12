@@ -1,5 +1,6 @@
-import { GeistSans } from "geist/font/sans";
 import type { Metadata } from 'next'
+
+import { GeistSans } from 'geist/font/sans'
 
 // These styles apply to every route in the application
 import './globals.css'
