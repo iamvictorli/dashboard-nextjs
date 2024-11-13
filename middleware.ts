@@ -1,3 +1,4 @@
+// https://nextjs.org/docs/app/building-your-application/authentication#optimistic-checks-with-middleware-optional
 import type { NextRequest } from 'next/server'
 
 import { NextResponse } from 'next/server'
